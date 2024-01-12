@@ -19,7 +19,7 @@ import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 import seaborn as sns
-from google.colab import drive
+#from google.colab import drive
 import warnings
 warnings.filterwarnings('ignore', category=DeprecationWarning)
 
